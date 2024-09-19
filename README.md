@@ -7,7 +7,7 @@
 - Create an account on MongoDB
 
 ## Create .env file
-Create a .env file and paste this code , username and password will be generated once you create an account on MongoDB
+Create a .env file and paste this code , username and password will be generated once you create an account on MongoDB and create a database in that 
 
 ```
 MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
